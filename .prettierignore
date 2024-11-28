@@ -1,0 +1,9 @@
+# Ignore artifacts
+dist
+build
+coverage
+node_modules
+
+#ignore all public files
+*.html
+public
